@@ -1,0 +1,45 @@
+{
+  "name": "@hiveflow/mcp-server",
+  "version": "1.0.7",
+  "description": "Model Context Protocol server for HiveFlow - Automate workflows and manage flows from any MCP-compatible AI assistant",
+  "main": "src/index.js",
+  "bin": {
+    "hiveflow-mcp": "src/index.js"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node src/index.js",
+    "test": "node src/index.js --help"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "hiveflow",
+    "automation",
+    "workflow",
+    "ai",
+    "claude",
+    "cursor"
+  ],
+  "author": "HiveFlow Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hiveflowai/hiveflow-mcp-server.git"
+  },
+  "homepage": "https://hiveflow.com",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.1",
+    "axios": "^1.6.7",
+    "commander": "^11.0.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "src/**/*",
+    "README.md",
+    "LICENSE"
+  ]
+}
