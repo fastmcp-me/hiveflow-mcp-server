@@ -1,3 +1,8 @@
+[![Add to Cursor](https://fastmcp.me/badges/cursor_dark.svg)](https://fastmcp.me/MCP/Details/810/hiveflow)
+[![Add to VS Code](https://fastmcp.me/badges/vscode_dark.svg)](https://fastmcp.me/MCP/Details/810/hiveflow)
+[![Add to Claude](https://fastmcp.me/badges/claude_dark.svg)](https://fastmcp.me/MCP/Details/810/hiveflow)
+[![Add to ChatGPT](https://fastmcp.me/badges/chatgpt_dark.svg)](https://fastmcp.me/MCP/Details/810/hiveflow)
+
 # @hiveflow/mcp-server
 
 Official Model Context Protocol (MCP) server for HiveFlow. Connect your AI assistants (Claude, Cursor, etc.) directly to your HiveFlow automation platform.
